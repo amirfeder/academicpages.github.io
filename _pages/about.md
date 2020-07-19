@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD student at the Technion, working under the supervision of Professor <a href = "https://ie.technion.ac.il/~roiri/">Roi Reichart</a> at the <a href = "http://www.technion.ac.il">Technion - Israel Institute of Technology</a>. 
+I'm a second year PhD student at the <a href = "http://www.technion.ac.il">Technion - Israel Institute of Technology</a>, working under the supervision of Professor <a href = "https://ie.technion.ac.il/~roiri/">Roi Reichart</a>. 
 
 My research investigates and develops linguistically informed algorithms for predicting and understanding human behavior. To this end, my work integrates several bodies of knowledge from natural language processing, causal inference and the social sciences. 
 
