@@ -14,7 +14,7 @@ description              : &description "PhD candidate at the Technion - Isreal 
 url                      : https://amirfeder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amifeder.github.io"
-teaser                   :  "profile.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "CV_Pic-Amir_Feder.jpg"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
