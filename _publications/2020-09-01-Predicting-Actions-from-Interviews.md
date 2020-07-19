@@ -1,10 +1,10 @@
 ---
 title: "Predicting In-game Actions from Interviews of NBA Players"
 collection: publications
-permalink: /publication/2020-06-01-Predicting-Actions-from-Interviews
-date: 2020-06-01
+permalink: /publication/2020-09-01-Predicting-Actions-from-Interviews
+date: 2020-09-01
 venue: 'Computational Linguistics'
-citation: '<b>Amir Feder</b>*, Nadav Oved* and Roi Reichart. "Predicting In-game Actions from Interviews of NBA Players." <i>Computational Linguistics</i>. 2020.'
+citation: '<b>Amir Feder</b>*, Nadav Oved* and Roi Reichart. "Predicting In-game Actions from Interviews of NBA Players." <i>Computational Linguistics</i> (Vol. 46, No. 3). 2020.'
 pdfurl: "https://arxiv.org/pdf/1910.11292.pdf"
 codeurl: "https://github.com/nadavo/mood"
 ---  
