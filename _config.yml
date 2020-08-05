@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-174585419-1"
 
 
 # Site Author
@@ -83,7 +83,7 @@ author:
   name             : "Amir Feder"
   avatar           : "CV_Pic-Amir_Feder.jpg"
   bio              : "PhD Candidate at the Technion - Isreal Institute of Technology"
-  location         : "Haifa, Israel"
+  location         : "Tel Aviv, Israel"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ERwoPLIAAAAJ&hl=en"
