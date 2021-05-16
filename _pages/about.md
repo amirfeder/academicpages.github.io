@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at the <a href = "http://www.technion.ac.il">Technion - Israel Institute of Technology</a>, working with Prof. <a href = "https://ie.technion.ac.il/~roiri/">Roi Reichart</a> and Prof. <a href = "https://shalit.net.technion.ac.il/people/">Uri Shalit</a>. 
+I'm a PhD student at the <a href = "http://www.technion.ac.il">Technion - Israel Institute of Technology</a>, working with Prof. <a href = "https://ie.technion.ac.il/~roiri/">Roi Reichart</a> and Prof. <a href = "https://shalit.net.technion.ac.il/people/">Uri Shalit</a>.
 
 I develop methods that integrate causality into natural language processing to generate more robust and interpretable models. I'm also interested in investigating and developing linguistically informed algorithms for predicting and understanding human behavior. To these ends, my work integrates several bodies of knowledge from machine learning, causal inference and the social sciences. 
 
